@@ -3,7 +3,7 @@ This app helps popsicle/ice cream makers to manage percentages for their recipe 
 
 Technical description:
 - Pure Javascript without libraries
-- Use classes
-- Fectching from json file
+- Classes
+- Fetching from json file
 - Event listener management
 - HTML and CSS
